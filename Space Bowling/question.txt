@@ -1,0 +1,1 @@
+I would add an aiming line so you could see where your ball will hit the asteroid and what kind of collision that would cause (good for trying to do multiple hits in one shot). I'd also make more than one platform to make things interesting and maybe give the asteroids a little time window when they're off the platforms before they "drop". 
